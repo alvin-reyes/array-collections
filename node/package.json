@@ -1,0 +1,30 @@
+{
+  "name": "array-collection",
+  "version": "1.0.0",
+  "description": "Manipulate large, in-memory datasets with ease",
+  "main": "arrcollections.js",
+  "files": [
+    "arrcollections.js",
+    "tests.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alvin-reyes/array-collections.git"
+  },
+  "keywords": [
+    "array",
+    "collection",
+    "manipulation"
+  ],
+  "author": "Alvin Reyes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alvin-reyes/array-collections/issues"
+  },
+  "homepage": "https://github.com/alvin-reyes/array-collections"
+}
